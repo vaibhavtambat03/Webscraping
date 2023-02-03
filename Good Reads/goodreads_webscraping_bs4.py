@@ -47,6 +47,6 @@ D=pd.DataFrame(d,columns=["Likes"])
 
 combined=pd.concat([A,B,C,D],axis=1)
 print(combined)
-combined.to_csv("C:\Python\PY DS\Webscrapping\goodreads_test_bs4.csv")
+combined.to_csv("C:\Python\PY DS\Webscrapping\goodreads_bs4.csv")
 
 
