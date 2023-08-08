@@ -1,1 +1,1 @@
-Good Reads
+Goodreads by Beautiful Soup
